@@ -1,1 +1,2 @@
-# calliope v clio v1.0
+# Girlypop Icon, LLC (A Software Company) introducing
+CLIo v0.00
